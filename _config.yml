@@ -1,1 +1,16 @@
 theme: jekyll-theme-midnight
+
+
+title: [Nginx-Socketify]
+description: [Customize your upstream socket input and output buffer in Nginx config and it just one time effort for various tcp protocol services over a nginx-socketify.]
+host: 0.0.0.0
+show_downloads: false
+
+github:
+ public: true
+ is_project_page: true
+ zip_url: http://example.com/download.zip
+ tar_url: http://example.com/download.tar.gz
+ repository_url: http://github.com/taymindis/nginx-socketify
+ owner_url: http://github.com/taymindis
+ owner_name : taymindis
